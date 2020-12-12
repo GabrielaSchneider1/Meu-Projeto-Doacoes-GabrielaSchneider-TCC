@@ -1,5 +1,5 @@
 ## PROGRAMA DE DOAÇÃO
-![Meu Projeto](C:\Users\gabis\Documents\FundatecTCC1TelaInicialMockflow.PNG "Meu Trabalho TCC")
+![Meu Projeto](C:\Users\gabis\Documents\FundatecTCC1TelaInicialMockflow.PNG)
 
 ## Metafora Problema
 Falta de uma página na internet onde se visualize de forma direta, centralizada, rápida e fácil os itens de que as instituições de caridade necessitam e as informações de contato de cada instituição, possibilitando ao público interessado em doar a opção de uma doação mais próxima, local e humanizada, saindo da forma proposta pelos demais canais de depósito em dinheiro.
