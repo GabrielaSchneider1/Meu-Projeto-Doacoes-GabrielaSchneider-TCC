@@ -1,4 +1,4 @@
-## PROGRAMA DE DOAÇÃO PARA FINS DE CARIDADE:
+## PROGRAMA DE DOAÇÃO PARA FINS DE CARIDADE
 ![Meu Projeto]()
 
 ## Metafora Problema
