@@ -14,6 +14,4 @@
 
 ### [Diagrama Entidade Relacional (ER)](https://github.com/GabrielaSchneider1/template-fundatec-tcc/blob/master/doc/FundatecTCC1DiagramaModeloER%20final.PNG)
 
-![](https://www.researchgate.net/profile/F_Silva8/publication/271298844/figure/fig1/AS:414000979431424@1475716933236/Figura-1-Modelo-Entidade-Relacionamento.png)
-
 ![](https://www.researchgate.net/profile/Rodolfo_Favaretto/publication/332811400/figure/fig3/AS:754131237097472@1556810306463/Figura-5-Diagrama-de-implementacao-do-sistema-Faz-Tudo.png)
