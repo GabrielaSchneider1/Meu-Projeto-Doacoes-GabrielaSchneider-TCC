@@ -1,4 +1,4 @@
-## PROGRAMA DE DOAÇÃO PARA FINS DE CARIDADE
+## PROGRAMA de DOAÇÃO para fins de CARIDADE
 ![Meu Projeto](https://github.com/GabrielaSchneider1/template-fundatec-tcc/blob/master/doc/FundatecTCC1TelaInicialMockflow.PNG)
 
 ## Metafora Problema
