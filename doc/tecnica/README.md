@@ -1,6 +1,6 @@
 ## Diagramas
 
-### [Diagram de Caso de Uso ... Funcioanalidades](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/UML_Use_Case_diagram.svg/513px-UML_Use_Case_diagram.svg.png)
+### [Diagram de Caso de Uso ... Funcioanalidades](https://github.com/GabrielaSchneider1/Meu-Projeto-Doacoes-GabrielaSchneider-TCC/blob/master/doc/Fundatec-%20TCC1-%20Diagrama%20Casos%20de%20Uso.PNG)
 
 ![Diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/UML_Use_Case_diagram.svg/513px-UML_Use_Case_diagram.svg.png)
 
